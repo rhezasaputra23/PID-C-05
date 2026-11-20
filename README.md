@@ -1,5 +1,7 @@
 # Proyek Akhir Pengolahan dan Integrasi Data
 
+Kelompok ini mengerjakan PID-C-05 dengan Topik 4 — Fleet Telematics, Varian A — Bus Kota.
+
 Proyek kelompok penutup mata kuliah PID. Selama 10 minggu Anda telah mempelajari MySQL, MongoDB, ETL-Pandas, data quality, data warehouse, Airflow, batch dan stream processing, Kafka, IoT-Kafka, dan Spark. Proyek ini menggabungkan **seluruh materi tersebut** menjadi satu _pipeline_ data _end-to-end_ untuk sistem siber-fisik.
 
 ## Ketentuan Umum
