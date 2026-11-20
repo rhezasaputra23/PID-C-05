@@ -1,0 +1,24 @@
+# Environment and credentials
+.env
+*.env
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Java/Scala build output
+target/
+.bsp/
+
+# Docker data
+volumes/
+data/
+
+# Local IDE and OS files
+.vscode/
+.idea/
+.DS_Store
