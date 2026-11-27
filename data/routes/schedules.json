@@ -1,0 +1,173 @@
+
+{
+  "schedule_config": {
+    "schedule_type": "simulation",
+    "operating_start_time": "05:00",
+    "operating_end_time": "23:00",
+    "initial_departure_interval_minutes": 15,
+    "terminal_dwell_minutes": 10,
+    "round_trip_enabled": true
+  },
+  "schedules": [
+    {
+      "schedule_id": "SCH-R01-01",
+      "bus_id": "BUS-R01-01",
+      "route_id": "R-01",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:00"
+    },
+    {
+      "schedule_id": "SCH-R01-02",
+      "bus_id": "BUS-R01-02",
+      "route_id": "R-01",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:15"
+    },
+    {
+      "schedule_id": "SCH-R01-03",
+      "bus_id": "BUS-R01-03",
+      "route_id": "R-01",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:30"
+    },
+    {
+      "schedule_id": "SCH-R01-04",
+      "bus_id": "BUS-R01-04",
+      "route_id": "R-01",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:45"
+    },
+    {
+      "schedule_id": "SCH-R01-05",
+      "bus_id": "BUS-R01-05",
+      "route_id": "R-01",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "06:00"
+    },
+    {
+      "schedule_id": "SCH-R02-01",
+      "bus_id": "BUS-R02-01",
+      "route_id": "R-02",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "initial_departure_time": "05:00"
+    },
+    {
+      "schedule_id": "SCH-R02-02",
+      "bus_id": "BUS-R02-02",
+      "route_id": "R-02",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "initial_departure_time": "05:15"
+    },
+    {
+      "schedule_id": "SCH-R02-03",
+      "bus_id": "BUS-R02-03",
+      "route_id": "R-02",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "initial_departure_time": "05:30"
+    },
+    {
+      "schedule_id": "SCH-R02-04",
+      "bus_id": "BUS-R02-04",
+      "route_id": "R-02",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "initial_departure_time": "05:45"
+    },
+    {
+      "schedule_id": "SCH-R02-05",
+      "bus_id": "BUS-R02-05",
+      "route_id": "R-02",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "initial_departure_time": "06:00"
+    },
+    {
+      "schedule_id": "SCH-R03-01",
+      "bus_id": "BUS-R03-01",
+      "route_id": "R-03",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:00"
+    },
+    {
+      "schedule_id": "SCH-R03-02",
+      "bus_id": "BUS-R03-02",
+      "route_id": "R-03",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:15"
+    },
+    {
+      "schedule_id": "SCH-R03-03",
+      "bus_id": "BUS-R03-03",
+      "route_id": "R-03",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:30"
+    },
+    {
+      "schedule_id": "SCH-R03-04",
+      "bus_id": "BUS-R03-04",
+      "route_id": "R-03",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "05:45"
+    },
+    {
+      "schedule_id": "SCH-R03-05",
+      "bus_id": "BUS-R03-05",
+      "route_id": "R-03",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "initial_departure_time": "06:00"
+    },
+    {
+      "schedule_id": "SCH-R04-01",
+      "bus_id": "BUS-R04-01",
+      "route_id": "R-04",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "initial_departure_time": "05:00"
+    },
+    {
+      "schedule_id": "SCH-R04-02",
+      "bus_id": "BUS-R04-02",
+      "route_id": "R-04",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "initial_departure_time": "05:15"
+    },
+    {
+      "schedule_id": "SCH-R04-03",
+      "bus_id": "BUS-R04-03",
+      "route_id": "R-04",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "initial_departure_time": "05:30"
+    },
+    {
+      "schedule_id": "SCH-R04-04",
+      "bus_id": "BUS-R04-04",
+      "route_id": "R-04",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "initial_departure_time": "05:45"
+    },
+    {
+      "schedule_id": "SCH-R04-05",
+      "bus_id": "BUS-R04-05",
+      "route_id": "R-04",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "initial_departure_time": "06:00"
+    }
+  ]
+}

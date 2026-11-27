@@ -1,0 +1,50 @@
+
+{
+  "stops": [
+    {
+      "stop_id": "T-01",
+      "stop_name": "Terminal Arjosari",
+      "stop_type": "terminal",
+      "latitude": -7.935205,
+      "longitude": 112.658384,
+      "geofence_radius_m": 50,
+      "verification_status": "coordinates_provided"
+    },
+    {
+      "stop_id": "T-02",
+      "stop_name": "Terminal Hamid Rusdi",
+      "stop_type": "terminal",
+      "latitude": -8.025997,
+      "longitude": 112.643855,
+      "geofence_radius_m": 50,
+      "verification_status": "coordinates_provided"
+    },
+    {
+      "stop_id": "T-03",
+      "stop_name": "Terminal Landungsari",
+      "stop_type": "terminal",
+      "latitude": -7.925197,
+      "longitude": 112.598150,
+      "geofence_radius_m": 50,
+      "verification_status": "coordinates_provided"
+    },
+    {
+      "stop_id": "T-04",
+      "stop_name": "Terminal Mulyorejo",
+      "stop_type": "terminal",
+      "latitude": -7.990433,
+      "longitude": 112.599462,
+      "geofence_radius_m": 50,
+      "verification_status": "coordinates_provided"
+    },
+    {
+      "stop_id": "T-05",
+      "stop_name": "Terminal Madyopuro",
+      "stop_type": "terminal",
+      "latitude": -7.974556,
+      "longitude": 112.670631,
+      "geofence_radius_m": 50,
+      "verification_status": "coordinates_provided"
+    }
+  ]
+}

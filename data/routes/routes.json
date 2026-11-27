@@ -1,0 +1,45 @@
+
+{
+  "routes": [
+    {
+      "route_id": "R-01",
+      "route_name": "Koridor Utara-Selatan",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-02",
+      "start_terminal": "Terminal Arjosari",
+      "end_terminal": "Terminal Hamid Rusdi",
+      "bus_count": 5,
+      "status": "active"
+    },
+    {
+      "route_id": "R-02",
+      "route_name": "Koridor Utara-Barat",
+      "start_terminal_id": "T-01",
+      "end_terminal_id": "T-03",
+      "start_terminal": "Terminal Arjosari",
+      "end_terminal": "Terminal Landungsari",
+      "bus_count": 5,
+      "status": "active"
+    },
+    {
+      "route_id": "R-03",
+      "route_name": "Koridor Barat-Selatan",
+      "start_terminal_id": "T-03",
+      "end_terminal_id": "T-02",
+      "start_terminal": "Terminal Landungsari",
+      "end_terminal": "Terminal Hamid Rusdi",
+      "bus_count": 5,
+      "status": "active"
+    },
+    {
+      "route_id": "R-04",
+      "route_name": "Koridor Barat Daya-Timur",
+      "start_terminal_id": "T-04",
+      "end_terminal_id": "T-05",
+      "start_terminal": "Terminal Mulyorejo",
+      "end_terminal": "Terminal Madyopuro",
+      "bus_count": 5,
+      "status": "active"
+    }
+  ]
+}
